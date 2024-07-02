@@ -57,8 +57,11 @@ Number of Fields: 12
 **Skills Utilized:**
 
 Microsoft Excel
+
 MySQL Workbench
+
 Data Analytics
+
 Data Visualization
 
 📬 **Contact:**
